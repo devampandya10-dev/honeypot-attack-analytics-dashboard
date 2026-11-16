@@ -106,8 +106,8 @@ honeypot-dashboard/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/honeypot-dashboard.git
-cd honeypot-dashboard
+git clone https://github.com/devampandya10-dev/honeypot-attack-analytics-dashboard.git
+cd honeypot-attack-analytics-dashboard
 ```
 
 ### 2. Create and Activate a Virtual Environment
