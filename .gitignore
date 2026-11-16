@@ -1,0 +1,28 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Dataset files
+data/raw/
+data/processed/
+
+# Temporary files
+scratch/
+*.log
+.pytest_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# One-time maintenance scripts
+fix_colors.py
